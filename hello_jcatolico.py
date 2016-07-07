@@ -1,1 +1,1 @@
-#hi
+print "it's bad"
